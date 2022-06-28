@@ -2,4 +2,4 @@
 
 A bevy bevy pong game.
 
-[Demo](https://)
+[Demo](https://tong-k-k.github.io/)
