@@ -2,7 +2,7 @@
 
 A bevy bevy pong game.
 
-[Demo](https://tong-k-k.github.io/my-pong/index.html)
+[Demo](https://tong-k-k.github.io/bevy-pong)
 
 to build web:
 ```
