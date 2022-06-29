@@ -14,3 +14,8 @@ to release web:
 cargo build --release --target wasm32-unknown-unknown
 wasm-bindgen --out-dir ./out/ --target web ./target/
 ```
+
+Windows:
+```
+wasm-bindgen .\target\wasm32-unknown-unknown\release\my-pong.wasm --out-dir .\out\ --target web
+```
